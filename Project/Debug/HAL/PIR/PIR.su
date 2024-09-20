@@ -1,0 +1,2 @@
+../HAL/PIR/PIR.c:7:6:PIR_Init	16	static
+../HAL/PIR/PIR.c:26:6:PIR_Read	16	static

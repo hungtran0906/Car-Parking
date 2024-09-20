@@ -1,0 +1,13 @@
+../HAL/LCD/Lcd.c:15:13:LCD_ES_tTrigger_Enable	16	static
+../HAL/LCD/Lcd.c:39:6:Lcd_ES_tInit	24	static
+../HAL/LCD/Lcd.c:167:6:wait_ms	24	static
+../HAL/LCD/Lcd.c:173:6:lcd_ES_tclear	16	static
+../HAL/LCD/Lcd.c:194:6:Lcd_ES_tsendCmd	16	static
+../HAL/LCD/Lcd.c:240:6:Lcd_ES_tsendChar	16	static
+../HAL/LCD/Lcd.c:286:6:Lcd_ES_tsendString	24	static
+../HAL/LCD/Lcd.c:320:6:Lcd_ES_tsendString_xy	16	static
+../HAL/LCD/Lcd.c:350:6:Lcd_ES_tdisplayNum	48	static
+../HAL/LCD/Lcd.c:409:6:Lcd_ES_tdisplayNum_xy	32	static
+../HAL/LCD/Lcd.c:470:6:Lcd_ES_tsendChar_xy	32	static
+../HAL/LCD/Lcd.c:524:13:LCD_ES_tSet_Cursor_Pos	16	static
+../HAL/LCD/Lcd.c:566:6:LCD_ES_tGoTo	16	static

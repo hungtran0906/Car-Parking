@@ -1,0 +1,8 @@
+../Src/main.c:45:6:clearArray	2
+../Src/main.c:53:6:ShowIDs	2
+../Src/main.c:64:6:CopyArray	2
+../Src/main.c:78:9:CompareWithDataBase	6
+../Src/main.c:112:6:UART_RecieverEntry_CallBack	9
+../Src/main.c:165:6:UART_RecieverExit_CallBack	9
+../Src/main.c:217:6:clock_init	1
+../Src/main.c:228:5:main	26

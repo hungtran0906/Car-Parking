@@ -1,0 +1,2 @@
+../HAL/Servo/Servo.c:6:6:Servo_Init	3
+../HAL/Servo/Servo.c:34:6:Servo_Move	5

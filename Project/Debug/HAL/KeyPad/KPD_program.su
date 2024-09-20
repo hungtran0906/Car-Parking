@@ -1,0 +1,2 @@
+../HAL/KeyPad/KPD_program.c:51:6:KPD_init	16	static
+../HAL/KeyPad/KPD_program.c:119:6:KPD_ES_tGetKeyPressed	24	static
