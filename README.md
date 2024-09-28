@@ -10,4 +10,5 @@ This is the project implemented on STM32F103 microcontroller. This system allow 
 * RFID cards
 ## Key features
 * ID manage : Add or remove IDs to control vehicles entering the parking
-* 
+* Access/exit control: Servo motor opens the door when the card is correct, closes the door when the car has entered.
+* Parking space monitoring: Update the number of available spaces automatically when the vehicle enters/exits.
